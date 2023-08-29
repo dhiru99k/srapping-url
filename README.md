@@ -4,6 +4,9 @@ This is designed to scrape product details from Amazon product pages using the S
 # Getting Started
 ## Prerequisites
 Python 3.x
+
 Selenium: Install using pip install selenium
+
 BeautifulSoup: Install using pip install beautifulsoup4
-Chrome WebDriver: Make sure you have the Chrome WebDriver installed and its path added to your system's PATH variable. You can download it from the official website.
+
+Chrome WebDriver: Make sure you have the Chrome WebDriver installed and its path added to your system's PATH variable.
