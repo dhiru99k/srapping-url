@@ -25,3 +25,21 @@ Chrome WebDriver: Make sure you have the Chrome WebDriver installed and its path
 8. Web Driver Cleanup: After scraping is complete, the web driver is closed using driver.quit() to release the resources.
 <br><br>
 9. Output and Completion Message: A message is printed indicating the completion of scraping and the location where the scraped data is saved.
+## Time Taken
+Completed 100/1000 URLs in 277.74 seconds
+<br>
+Completed 200/1000 URLs in 279.12 seconds
+<br>
+Completed 300/1000 URLs in 273.94 seconds
+<br>
+Completed 400/1000 URLs in 128.79 seconds
+<br>
+Completed 500/1000 URLs in 128.12 seconds
+<br>
+Completed 600/1000 URLs in 224.38 seconds
+<br>
+Completed 700/1000 URLs in 256.13 seconds
+<br>
+Completed 800/1000 URLs in 91.71 seconds
+<br>
+Completed 900/1000 URLs in 103.86 seconds
